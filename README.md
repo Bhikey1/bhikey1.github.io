@@ -1,7 +1,6 @@
 # Portfolio Projects 
 
-### [New York city AirBnB](Bhikey1/New-York-City-AirBnB1)
-### Data visualization: [AirBnB](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/NewYorkCityAirBnB_16967239353260/AirBnBNYC)
+### New York city AirBnB
   Description: AirBnB, Inc. is an American San Francisco based company operating an online marketplace for short and long
   term homestays and experiences. This dataset describes the listing activities and metrics in NYC, NY for 2019. The tasks
   are: what we can learn about different areas, what we can learn from predictions (examples: locations and prices, location
@@ -10,6 +9,7 @@
   explorating data analysis, drawing conclusions.
   Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
   Tools: Python, Pandas, Numpy, Seaborn, Matplotlib.
+### [VIEW PROJECT](https://github.com/Bhikey1/New-York-City-AirBnB1)
 
 ### [Maven Telecommunication Customer Churn](Bhikey1/Maven-Telecom-Customer-Churn)
 ### Data visualization: [Customer Churn](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn)
