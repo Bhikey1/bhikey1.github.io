@@ -20,24 +20,16 @@
   Tools: Python, Tableau Pandas, Numpy, Tableau.
 ### [VIEW PROJECT](https://github.com/Bhikey1/Maven-Telecom-Customer-churn)
 
-### E-commerce Sales Analysis
+### Electronic Products Sales Analysis
   Description: An ecommerce that sells electronic product such as phones, charger etc in the USA, and the data comprises
   of details about customer location, order date, product name and price. The task is to know the best month for sales and
   how much was earned, what city had the highest number of sales, what time and day should advertisement be done, and what
   products are sold together (Basket Analysis)?
   Skills: data cleaning, data analysis, descriptive statistics, data visualization, Basket Analysis.
   Tools: MS Excel, MySQL, Tableau
+### [VIEW PROJECT](https://github.com/Bhikey1/Electronic-Products)
 
-### Customer Behavior Analysis
-  Description: Sales data for an ecommerce that sells bikes and bikes' accessories to customers around the world. The dataset
-  include details about customer demographics, location, order quantity, unit price, unit cost, profit and revenue. The task
-  is to analyze customer demographics by states in the United Statees to understand the purchasing trends. That is, to know 
-  who the customers are, what they buy and when they to better future advertising campaigns.
-  Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
-  Tools: MS Excel, MySQL, Tableau
-
-### [Global Superstore](Bhikey1/Global-superstore)
-### Data Visualization: [Global Superstore](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/GlobalSuperstore_17027671329720/GlobalSuperstore)
+### Global Superstore
   Customer analysis for Global Superstore, that sells different kinds of products for customers around the world. The dataset
   contains customers location, product categories, revenue, sales, etc. The task is to perform customer analysis: profile the 
   customers based on their frequency of purchase-calculate frequency of purchase for each customer, are the high frequent 
@@ -46,6 +38,7 @@
   preprocessing, explorating data analysis, drawing conclusions.
   Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
   Tools: Python, Tableau Pandas, Numpy, Tableau.
+### [VIEW PROJECT](https://github.com/Bhikey1/Global-Superstore)
 
 ## Contacts
   LinkedIn: [@Oluwabukunmi](www.linkedin.com/in/morakinyo-oluwabukunmi)
