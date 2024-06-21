@@ -11,17 +11,16 @@
   Tools: Python, Pandas, Numpy, Seaborn, Matplotlib.
 ### [VIEW PROJECT](https://github.com/Bhikey1/New-York-City-AirBnB1)
 
-### [Maven Telecommunication Customer Churn](Bhikey1/Maven-Telecom-Customer-Churn)
-### Data visualization: [Customer Churn](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/MavenTelecomCustomerChurn/MavenTelecomChurn)
+### Maven Telecommunication Customer Churn
   Description: Churn analysis for fictional telecommunication company that provides phone and internet services to 7,043 
   customers in California and include details about customer demographics, location, services and current status. The 
   task is to improve retention by retention by identifying high value customers and churn rate. The project includes the 
   following steps: data loading, data cleaning and preprocessing, explorating data analysis, drawing conclusions.
   Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
   Tools: Python, Tableau Pandas, Numpy, Tableau.
+### [VIEW PROJECT](https://github.com/Bhikey1/Maven-Telecom-Customer-churn)
 
-### [E-commerce Sales Analysis](Bhikey1/Ecommerce-sales)
-### Data visualization: [Sales Analysis](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/E-commercesalesanalysis_16924077581270/E-commerceSales)
+### E-commerce Sales Analysis
   Description: An ecommerce that sells electronic product such as phones, charger etc in the USA, and the data comprises
   of details about customer location, order date, product name and price. The task is to know the best month for sales and
   how much was earned, what city had the highest number of sales, what time and day should advertisement be done, and what
@@ -29,8 +28,7 @@
   Skills: data cleaning, data analysis, descriptive statistics, data visualization, Basket Analysis.
   Tools: MS Excel, MySQL, Tableau
 
-### [Customer Behavior Analysis](Bhikey1/Ecommerce-sales-transaction-customer-analysis)
-### Data visualization: [Customer Behavior](https://public.tableau.com/app/profile/morakinyo.oluwabukunmi/viz/EcommerceCustomerAnalysis_16948205551450/Ecommercesales)
+### Customer Behavior Analysis
   Description: Sales data for an ecommerce that sells bikes and bikes' accessories to customers around the world. The dataset
   include details about customer demographics, location, order quantity, unit price, unit cost, profit and revenue. The task
   is to analyze customer demographics by states in the United Statees to understand the purchasing trends. That is, to know 
