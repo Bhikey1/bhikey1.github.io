@@ -40,7 +40,11 @@
   Tools: Python, Tableau Pandas, Numpy, Tableau.
 ### [VIEW PROJECT](https://github.com/Bhikey1/Global-Superstore)
 
+### Maven Coffee
+A group of investors are looking to break into the US coffee market. As a data analyst, I am going to share explanatory report providing a data driven strategy for opening their first coffee shop. The investors expressed interest in the following areas: Target audience, the types of coffee drinks to offer, pricing strategy.
+### [VIEW PROJECT](https://medium.com/@morakinyobukunmi/maven-coffee-challenge-a76daf7b0191)
+
 ## Contacts
-  LinkedIn: [@Oluwabukunmi](www.linkedin.com/in/morakinyo-oluwabukunmi)
+  LinkedIn: [@MorakinyoOluwabukunmi](http://www.linkedin.com/in/morakinyo-oluwabukunmi)
   Github: [Bhikey1](http://www.github.com/Bhikey1)
   Email: morakinyobukunmi@gmail.com
