@@ -44,6 +44,12 @@
 A group of investors are looking to break into the US coffee market. As a data analyst, I am going to share explanatory report providing a data driven strategy for opening their first coffee shop. The investors expressed interest in the following areas: Target audience, the types of coffee drinks to offer, pricing strategy.
 ### [VIEW PROJECT](https://medium.com/@morakinyobukunmi/maven-coffee-challenge-a76daf7b0191)
 
+### Yelp Restaurant
+Yelp is a platform that connect people with great local businesses, such as restaurants. It can get you business data based on location. When traveling around the world, and a question pops up in your head, where is the best restaurant in the city? It serves as a free consultant for consumers in food hunting and home services. Those scraping yelp are capitalizing on reviews and ranking data to get an idea of what their businesses look like in customer's eyes. This dataset was scraped from yelp website and it contains name, review, number of reviews, category, and location of restaurant in the city of San Francisco, United States. The questions to be answered are: which is the most popular restaurant in San Francisco based on customer's number of reviews, the location with the best restaurant, the best category of restaurant by number of reviews, and which restaurant has the most number of review? The project incudes the following steps: webscraping, data cleaning and preprocessing, exploratory data analysis, data visualization.
+Skills: webscraping, data cleaning, data analysis, descriptive statistics, data visualization.
+Tools: Python, Tableau, Pandas, BeautifulSoup, Requests, Numpy, Tableau.
+### [VIEW PROJECT](https://github.com/Bhikey1/Yelp-Restaurant)
+
 ## Contacts
   LinkedIn: [@MorakinyoOluwabukunmi](http://www.linkedin.com/in/morakinyo-oluwabukunmi)
   Github: [Bhikey1](http://www.github.com/Bhikey1)
