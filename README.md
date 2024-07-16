@@ -37,11 +37,14 @@
   how are customer distributed across countries? The project includes the following steps: data loading, data cleaning and 
   preprocessing, explorating data analysis, drawing conclusions.
   Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
-  Tools: Python, Tableau Pandas, Numpy, Tableau.
+  Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Tableau.
 ### [VIEW PROJECT](https://github.com/Bhikey1/Global-Superstore)
 
 ### Maven Coffee
-A group of investors are looking to break into the US coffee market. As a data analyst, I am going to share explanatory report providing a data driven strategy for opening their first coffee shop. The investors expressed interest in the following areas: Target audience, the types of coffee drinks to offer, pricing strategy.
+A group of investors are looking to break into the US coffee market. As a data analyst, I am going to share explanatory report providing a data driven strategy for opening their first coffee shop. The investors expressed interest in the following areas: Target audience, the types of coffee drinks to offer, pricing strategy.The project includes the following steps: data loading, data cleaning and 
+preprocessing, explorating data analysis, drawing conclusions.
+Skills: data loading, data cleaning, data analysis, descriptive statistics, data visualization.
+Tools: Python, Pandas, Numpy, Matplotlib, Seaborn, Tableau.
 ### [VIEW PROJECT](https://medium.com/@morakinyobukunmi/maven-coffee-challenge-a76daf7b0191)
 
 ### Yelp Restaurant
